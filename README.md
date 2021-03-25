@@ -1,8 +1,7 @@
-### Hi I'am Claudia Diana : seedling :
-
+### Hi I'am Claudia Diana 🌱
 ### Sobre mim:
 <p>
-  Sou estudante no último ano de Sistemas de Informações, estou em busca de aprendizado na área de tecnologia, e tenho como grande paixão a área de desenvolvimento.
+  Estudante no último ano de Sistemas de Informações, estágiaria de Quality Assurance, em busca de aprendizado na área.
 <p>
   
  ### Principais Skills:
@@ -16,6 +15,10 @@
   
   ### Áreas de interesse:
   <p>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   
   <p>
   
@@ -25,14 +28,14 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-  <p>
+  <p>	<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   
   ### Github Analytics:
   
-  <p align ="left">
+<p align ="left">
   ! [Estatísticas do GitHub de Diana] (https://github-readme-stats.vercel.app/api ? Username = ClaudiaDiana & show_icons = true & theme = dracula )
-  [! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = ClaudiDiana & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
-  <p>
+  [! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = ClaudiaDiana & layout = compact )] (https://github.com/ClaudiaDiana/github-readme-         Estatísticas)
+<p>
   
   ### Social Media:
   <p>
