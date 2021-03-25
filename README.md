@@ -33,8 +33,7 @@
   ### Github Analytics:
   
 <p align ="left">
-  ! [Estatísticas do GitHub de Diana] (https://github-readme-stats.vercel.app/api ? Username = ClaudiaDiana & show_icons = true & theme = dracula )
-  [! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = ClaudiaDiana & layout = compact )] (https://github.com/ClaudiaDiana/github-readme-         Estatísticas)
+  ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudiaDiana&show_icons=true&theme=dracula)
 <p>
   
   ### Social Media:
