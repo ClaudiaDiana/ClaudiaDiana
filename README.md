@@ -45,6 +45,7 @@
 <p>
   
   ### Social Media:
-  
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)] (https://www.linkedin.com/in/claudia-diana-/)
+<p>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
 
