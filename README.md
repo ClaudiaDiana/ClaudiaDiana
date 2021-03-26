@@ -44,7 +44,5 @@
   ### Social Media:
 <p>
   <a href="https://www.linkedin.com/in/claudia-diana-/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-thebadge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:claudiadiana150@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <p>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiadiana150@gmail.com)](mailto:claudiadiana150@gmail.com)
-
