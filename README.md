@@ -37,9 +37,11 @@
   
   ### Github Analytics:
   
-<p align ="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaDiana&layout=compact)](https://github.com/ClaudiaDiana/github-readme-stats"/>
+<p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClaudiaDiana&show_icons=true&theme=dracula"/>
+<p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaDiana&layout=compact)](https://github.com/ClaudiaDiana/github-readme-stats"/>
 <p>
   
   ### Social Media:
