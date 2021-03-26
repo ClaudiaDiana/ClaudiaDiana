@@ -3,7 +3,7 @@
 ### Sobre mim:
 
 <p>
-  Estudante no último ano de Sistemas de Informações, estágiaria de Quality Assurance, em busca de aprendizado na área.
+  Tenho 21 anos, Estudante no último ano de Sistemas de Informações, estágiaria de Quality Assurance, em busca de aprendizado na área.
 <p>
   
  ### Principais Skills:
@@ -38,8 +38,8 @@
   ### Github Analytics:
   
 <p align ="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaDiana&layout=compact)](https://github.com/ClaudiaDiana/github-readme-stats"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ClaudiaDiana&show_icons=true&theme=dracula"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaDiana&layout=compact)](https://github.com/ClaudiaDiana/github-readme-stats"/>
 <p>
   
   ### Social Media:
