@@ -3,7 +3,7 @@
 ### Sobre mim:
 
 <p>
-  Tenho 21 anos, Estudante no último ano de Sistemas de Informações, estágiaria de Quality Assurance, em busca de aprendizado na área.
+  Tenho 21 anos, estudante no último ano de Sistemas de Informações, estágiaria de Quality Assurance, em busca de aprendizado na área.
 <p>
   
  ### Principais Skills:
@@ -45,6 +45,6 @@
 <p>
   
   ### Social Media:
-  <p>
   
-  <p>
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)] (https://www.linkedin.com/in/claudia-diana-/)
+
