@@ -1,9 +1,9 @@
-### Hi I'am Claudia Diana 🌱
+### Olá sou a Claudia Diana 🌱
 
 ### Sobre mim:
 
 <p>
-  Tenho 21 anos, estudante no último ano de Sistemas de Informações, estágiaria de Quality Assurance, em busca de aprendizado na área.
+  Tenho 21 anos, estudante no último ano de Sistemas de Informações, analista de suporte, em busca de aprendizado na área.
 <p>
   
  ### Principais Skills:
